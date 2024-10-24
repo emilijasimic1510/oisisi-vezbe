@@ -1,4 +1,10 @@
+<<<<<<< HEAD
+eefwegbioermylwasdf
+dagadadagadadagadadasdfasdagadadagadadagadadagadadagada
+dagadadagadadagadadagadadagadasdfasdfadagada
+=======
 eefwejkkl
 gerhlgasdfgasdf 
 hdhetasdfasd
 
+>>>>>>> main
